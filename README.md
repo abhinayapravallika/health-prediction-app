@@ -56,7 +56,21 @@ health-prediction-app/
      ├── index.html
      ├── add.html
      └── edit.html
-
+llm-observability-chatbot/
+│
+├── backend/
+│   ├── main.py
+│   ├── models.py
+│   ├── database.py
+│   ├── llm_wrapper.py
+│   └── requirements.txt
+│
+├── frontend4/
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+└── Screenshots/
 ---
 
 ## Application Workflow
