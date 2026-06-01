@@ -107,7 +107,7 @@ health-prediction-app/
 
 ### Clone Repository
 
-git clone https://github.com/yourusername/health-prediction-app.git
+git clone https://github.com/abhinayapravallika/health-prediction-app.git
 
 cd health-prediction-app
 
