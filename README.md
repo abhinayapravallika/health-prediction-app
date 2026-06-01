@@ -44,8 +44,11 @@ A full-stack Health Prediction Application built using Flask, SQLite, Bootstrap,
 ## Project Structure
 
 health-prediction-app/
+|
 ├── app.py
+|
 ├── requirements.txt
+|
 ├── .gitignore
 ├── static/
 |    └── style.css
