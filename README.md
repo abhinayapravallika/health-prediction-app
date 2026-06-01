@@ -44,22 +44,6 @@ A full-stack Health Prediction Application built using Flask, SQLite, Bootstrap,
 ## Project Structure
 
 ```text
-llm-observability-chatbot/
-│
-├── backend/
-│   ├── main.py
-│   ├── models.py
-│   ├── database.py
-│   ├── llm_wrapper.py
-│   └── requirements.txt
-│
-├── frontend4/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── Screenshots/
-
 health-prediction-app/
 |
 ├── app.py
@@ -67,12 +51,16 @@ health-prediction-app/
 ├── requirements.txt
 |
 ├── .gitignore
+|
 ├── static/
 |    └── style.css
+|
 ├── templates/
-     ├── index.html
-     ├── add.html
-     └── edit.html
+|    ├── index.html
+|    ├── add.html
+|    └── edit.html
+|
+└── Screenshots/
 ```
 
 ## Application Workflow
