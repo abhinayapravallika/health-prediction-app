@@ -128,21 +128,23 @@ Open Browser:
 http://127.0.0.1:5000
 
 ---
-
 ## Screenshots
 
 ### Home Page
 
-Displays all patient records along with AI-generated health remarks.
+![Home Page](Screenshots/Home.png)
 
 ### Add Patient
 
-Allows users to enter patient details and generate health predictions.
+![Add Patient](Screenshots/Add.png)
 
 ### Edit Patient
 
-Allows updating existing patient records and regenerating predictions.
+![Edit Patient](Screenshots/Edit.png)
 
+### Delete Patient
+
+![Delete Patient](Screenshots/Delete.png)
 ---
 
 ## Future Enhancements
