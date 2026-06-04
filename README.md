@@ -13,7 +13,6 @@ A full-stack Health Prediction Application built using Flask, SQLite, Bootstrap,
 * SQLite Database Storage
 * Flask Backend
 * Bootstrap Styling
-* Session-Based Web Application
 
 ---
 
